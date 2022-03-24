@@ -1,7 +1,7 @@
 # StarkNet-install
 
 1.
-       https://raw.githubusercontent.com/notaprogrammer2019/StarkNet-install/main/install.sh
+       . <(wget -qO- https://raw.githubusercontent.com/notaprogrammer2019/StarkNet-install/main/install.sh)
     
     
 2. 
